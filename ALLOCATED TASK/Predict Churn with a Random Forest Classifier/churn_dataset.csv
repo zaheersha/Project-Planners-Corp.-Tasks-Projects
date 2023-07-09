@@ -1,0 +1,61 @@
+CustomerID,Age,Gender,Tenure,InternetService,MonthlyCharges,TotalCharges,Churn
+1,45,Male,7,DSL,50.1,350.55,No
+2,60,Female,12,Fiber optic,95.75,1130.8,Yes
+3,35,Male,1,DSL,45.5,45.5,Yes
+4,20,Female,3,Fiber optic,89.9,269.7,No
+5,50,Male,5,DSL,65.5,322.55,No
+6,70,Female,8,Fiber optic,98.5,785.2,No
+7,55,Male,2,DSL,52.9,113.1,Yes
+8,25,Female,4,Fiber optic,78.2,312.8,No
+9,30,Male,9,DSL,56.75,522.15,No
+10,40,Female,6,Fiber optic,94.1,541.2,Yes
+11,50,Male,11,DSL,63.4,678.8,No
+12,65,Female,7,Fiber optic,100.2,729.8,Yes
+13,35,Male,1,DSL,45,45,No
+14,45,Female,3,Fiber optic,88.7,260.45,No
+15,55,Male,9,DSL,59.85,528.25,No
+16,20,Female,4,Fiber optic,79.9,315.9,No
+17,30,Male,7,DSL,50.2,363.1,Yes
+18,70,Female,2,Fiber optic,99.1,203.15,Yes
+19,25,Male,5,DSL,54.65,269.8,No
+20,35,Female,8,Fiber optic,89.8,752.5,No
+21,45,Male,1,DSL,45.3,45.3,No
+22,60,Female,3,Fiber optic,86.1,244.6,No
+23,50,Male,6,DSL,64.1,365.45,Yes
+24,65,Female,11,Fiber optic,102.4,1128.6,Yes
+25,35,Male,7,DSL,50.55,355.15,No
+26,20,Female,2,Fiber optic,78.9,158.8,No
+27,55,Male,4,DSL,52.4,227.5,No
+28,30,Female,9,Fiber optic,93.8,920.8,No
+29,40,Male,6,DSL,61.7,377.25,Yes
+30,50,Female,12,Fiber optic,97.1,1134.6,Yes
+31,45,Female,8,Fiber optic,92.6,712.45,Yes
+32,55,Male,4,DSL,50.8,209.3,No
+33,30,Female,9,Fiber optic,79.7,725.5,Yes
+34,40,Male,6,DSL,56.2,322.4,No
+35,50,Female,12,Fiber optic,98.3,1167.6,Yes
+36,65,Male,7,DSL,54.4,367.2,No
+37,35,Female,1,Fiber optic,74.35,74.35,Yes
+38,45,Male,3,DSL,44.9,132.3,No
+39,55,Female,9,Fiber optic,96.2,875.9,Yes
+40,20,Male,4,DSL,49.6,208.7,No
+41,30,Female,7,Fiber optic,84.9,605.7,Yes
+42,40,Male,2,DSL,51.1,97.2,No
+43,50,Female,6,Fiber optic,92.5,540.75,No
+44,65,Male,11,DSL,57.6,644.85,Yes
+45,35,Female,7,Fiber optic,79.8,542.6,No
+46,45,Male,1,DSL,44.15,44.15,Yes
+47,55,Female,3,Fiber optic,88.7,277.4,No
+48,30,Male,9,DSL,56.75,532.9,Yes
+49,40,Female,6,Fiber optic,94.1,561.3,No
+50,50,Male,11,DSL,63.4,700.9,Yes
+51,65,Female,7,Fiber optic,100.2,702.8,Yes
+52,35,Male,1,DSL,45,45,No
+53,45,Female,3,Fiber optic,88.7,267.6,No
+54,55,Male,9,DSL,59.85,583.7,No
+55,20,Female,4,Fiber optic,79.9,319.6,No
+56,30,Male,7,DSL,50.2,352.9,Yes
+57,40,Female,2,Fiber optic,99.1,198.25,Yes
+58,50,Male,5,DSL,54.65,277.9,No
+59,65,Female,8,Fiber optic,89.8,738.25,No
+60,35,Male,1,DSL,45.3,45.3,No
