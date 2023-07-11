@@ -2,9 +2,9 @@
 The internship requires completing allocated tasks such as Human Activity Recognition and Logistic Regression on Iris Dataset, as well as projects including Bank Telemarketing Analysis and Loan Prediction, to earn internship certificates, recommendation letters, and swags. Submitting work on time is crucial to avoid notices and penalties.
 Tasks:
 
-#Human Activity Recognition with R Language (Deadline: 10th July)
+#Human Activity Recognition with python Language (Deadline: 10th July)
 
-Use R language to perform human activity recognition.
+Use python language to perform human activity recognition.
 Apply machine learning algorithms or techniques to classify human activities based on sensor data.
 Complete the task by the given deadline.
 Logistic Regression on Iris Dataset (Deadline: 20th July)
